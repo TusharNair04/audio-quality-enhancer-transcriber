@@ -106,5 +106,3 @@ This pipeline is ideal for situations where low-quality audio calls need to be t
 - Any audio source where the original sound quality is poor
 
 By enhancing the audio before transcription, this tool significantly improves the accuracy and clarity of the resulting text.
-
-Note: When working with audio data, especially in contexts such as customer service recordings or interview calls, it is crucial to handle the data with care to ensure privacy and compliance with relevant regulations, such as GDPR.
